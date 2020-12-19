@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: vext.gi
+Version: 0.7.4
+Summary: Use system python packages in a virtualenv
+Home-page: https://github.com/stuaxo/vext
+Author: Stuart Axon
+Author-email: stuaxo2@yahoo.com
+License: MIT
+Description: 
+        Allow use of system gi.repository (Gtk3) from a virtualenv
+        Should work on all platforms.
+        
+        report bugs to https://github.com/stuaxo/vext
+        
+Keywords: virtualenv gi vext gtk
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
